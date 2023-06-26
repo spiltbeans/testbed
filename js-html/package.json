@@ -1,10 +1,11 @@
 {
-  "name": "testbed",
+  "name": "testbed-js-html",
   "version": "1.0.0",
-  "description": "Sometimes I want a convenient way to just run some code with little setup",
+  "description": "Run some JavaScript or see some HTML with little setup",
   "main": "testbed.js",
+  "type": "commonjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node testbed.js"
   },
   "repository": {
     "type": "git",
