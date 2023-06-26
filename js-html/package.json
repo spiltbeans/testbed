@@ -1,0 +1,19 @@
+{
+  "name": "testbed",
+  "version": "1.0.0",
+  "description": "Sometimes I want a convenient way to just run some code with little setup",
+  "main": "testbed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiltbeans/testbed.git"
+  },
+  "author": "Eyas Valdez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spiltbeans/testbed/issues"
+  },
+  "homepage": "https://github.com/spiltbeans/testbed#readme"
+}
