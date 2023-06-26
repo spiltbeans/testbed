@@ -1,0 +1,8 @@
+# dependencies
+/react-tb/node_modules
+
+# testing
+/coverage
+
+# production
+/react-tb/build
