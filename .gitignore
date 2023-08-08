@@ -6,3 +6,4 @@
 
 # production
 /react-tb/build
+node_modules
